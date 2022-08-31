@@ -15,12 +15,12 @@ This project aims to automate the entire dairy operation and make
 
 <p align="center">
   <img alt="" src="https://user-images.githubusercontent.com/83179192/187668890-262977ca-c391-45e0-b4b9-6691afec40a6.png" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
+
   <img alt="" src="https://user-images.githubusercontent.com/83179192/187668943-ab7d209e-0632-4ec2-ab37-be48e500ad9c.png" width="45%">
   &nbsp; &nbsp; &nbsp; &nbsp;
-   <img alt="" src="https://user-images.githubusercontent.com/83179192/187668943-ab7d209e-0632-4ec2-ab37-be48e500ad9c.png" width="45%">
-   &nbsp; &nbsp; &nbsp; &nbsp;
-    <img alt="" src="https://user-images.githubusercontent.com/83179192/187668943-ab7d209e-0632-4ec2-ab37-be48e500ad9c.png" width="45%">
+ 
+   
+    
     &nbsp; &nbsp; &nbsp; &nbsp;
      <img alt="" src="https://user-images.githubusercontent.com/83179192/187668955-a40efff0-f15d-4375-97a6-eb0199f90a6d.png" width="45%">
      &nbsp; &nbsp; &nbsp; &nbsp;
